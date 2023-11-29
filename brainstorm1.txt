@@ -1,0 +1,5 @@
+Idea for website:
+Vey basic, black background with white text. Built into a grid.
+Square 1: A bio.
+Square 2: My face as an embed image
+Square 3: A word map of all the things I have done professionally and recrationally.
